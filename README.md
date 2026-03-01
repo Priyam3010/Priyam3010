@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyam3010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Snake animation](https://raw.githubusercontent.com/Priyam3010/Priyam3010/output/github-snake-dark.svg)
 
 </div>
 
