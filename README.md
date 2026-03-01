@@ -77,7 +77,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Priyam3010-181717?style=for-the-badge&logo=github)](https://github.com/Priyam3010)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyam%20Kumar%20Samal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyam-kumar-samal-98b113348/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-samalpriyamkumar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samalpriyamkumar@gmail.com)
 
 </div>
