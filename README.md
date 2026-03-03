@@ -50,8 +50,6 @@
 ### 🧠 [Quiz App](https://github.com/Priyam3010/QUiZ)
 > An interactive quiz application built with JavaScript. Tests your knowledge with a clean, intuitive interface.
 
-### 📚 [DSA Practice](https://github.com/Priyam3010/DSA)
-> My personal collection of Data Structures & Algorithms solutions in Java. Organized, well-commented, and always growing.
 
 ---
 
