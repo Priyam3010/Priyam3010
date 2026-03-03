@@ -1,10 +1,12 @@
-# Hey, I'm Priyam 👋
+<h1 align="center">Hey, I'm Priyam 👋</h1>
 
-**CS Student · Builder · Problem Solver**
+<p align="center"><strong>CS Student · Builder · Problem Solver</strong></p>
 
-*Turning logic into code and ideas into reality*
+<p align="center"><em>Turning logic into code and ideas into reality</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Java+%26+Python+Developer;JavaScript+Enthusiast;Always+learning+something+new)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Java+%26+Python+Developer;JavaScript+Enthusiast;Always+learning+something+new" alt="Typing SVG" /></a>
+</p>
 
 ---
 
