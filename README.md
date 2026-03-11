@@ -41,17 +41,26 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 [DocTalk — AI PDF Workspace](https://github.com/Priyam3010/DocTalk)
+> Upload any PDF and have a real conversation with it using AI. Powered by Groq's LLaMA 3.3 70B — chat with your notes, textbooks, or research papers instantly.
+
+### ♦️ [King of Diamonds](https://github.com/Priyam3010/KING_OF_DIAMONDS-AIB-)
+> A multiplayer web game inspired by Alice in Borderland. Built with Node.js, Express, Socket.io (backend) and React + Vite (frontend).
+
+### 💸 [Daily Expense Tracker](https://github.com/Priyam3010/DAILY_EXPENSE_TRACKER)
+> A JavaScript web app to track your daily expenses. Log, categorize, and monitor your spending with a clean UI.
+
+### ❌ [Tic Tac Toe](https://github.com/Priyam3010/tic_tac_toe)
+> Classic Tic Tac Toe game built with vanilla JavaScript. Two-player mode with win detection and clean interface.
+
 ### 🎵 [Spotify Clone](https://github.com/Priyam3010/spotify_clone)
-> A fully functional Spotify-inspired music player built with HTML, CSS & JavaScript. Features a clean UI, playlist navigation, and audio playback.
+> A Spotify-inspired music player built with HTML, CSS & JavaScript. Features a clean UI, playlist navigation, and audio playback.
 
 ### 🐍 [Snake Game](https://github.com/Priyam3010/snake_game)
 > Classic snake game brought to life in the browser using vanilla JavaScript. Smooth gameplay with score tracking.
 
 ### 🧠 [Quiz App](https://github.com/Priyam3010/QUiZ)
 > An interactive quiz application built with JavaScript. Tests your knowledge with a clean, intuitive interface.
-
-### 📚 [DSA Practice](https://github.com/Priyam3010/DSA)
-> My personal collection of Data Structures & Algorithms solutions in Java. Organized, well-commented, and always growing.
 
 ---
 
